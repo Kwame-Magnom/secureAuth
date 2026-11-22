@@ -1,0 +1,6 @@
+{
+  "name": "SecureAuth – Secure Authentication & Access Control System",
+  "description": "Professional cybersecurity web application featuring Argon2id hashing with salt & pepper, email 2FA, RBAC, audit logging, password security reports, automated backups, and multi-tier dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
